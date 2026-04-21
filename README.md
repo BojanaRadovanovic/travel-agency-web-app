@@ -26,4 +26,4 @@ To run this project properly, you need to install and include Font Awesome:
 - Download Font Awesome (version 6.7.2)
 - Extract the folder **fontawesome-free-6.7.2-web**
 - Place it inside your project directory
-- Make sure it is properly linked in the HTML files
+- Make sure it is properly linked in the files
